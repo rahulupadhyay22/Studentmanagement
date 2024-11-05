@@ -40,4 +40,5 @@ The main function provides an interactive menu with options to add, update, dele
 - Python 3.x
   
 ## Running the Program
+```bash
 python app.py
